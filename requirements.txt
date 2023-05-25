@@ -1,1 +1,5 @@
-pytesseract
+requests
+urllib3==1.26.15
+deep_translator
+boto3
+faker
