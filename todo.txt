@@ -13,3 +13,4 @@ FunctionName - image-extract-dev-first_function
 chalice-local deploy
 awslocal lambda list-functions
 awslocal lambda invoke --function-name image-extract-dev-first_function teste.txt
+
